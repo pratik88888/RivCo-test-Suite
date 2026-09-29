@@ -1,0 +1,27 @@
+{
+  "name": "playwrightautomationnew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@testomatio/reporter": "^1.6.17",
+    "@types/node": "^26.1.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^13.2.1",
+    "mailslurp-client": "^17.6.0",
+    "pdf-parse": "^2.4.5",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "overrides": {
+    "uuid": "^11.1.1"
+  }
+}

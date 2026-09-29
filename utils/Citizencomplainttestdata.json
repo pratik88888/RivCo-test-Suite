@@ -1,0 +1,13 @@
+{
+
+ "UserName" : "citizen.Rivco@3diemail.com",
+ "PassWord"  : "Rivco@1234",
+ "servicetype" :"Code Enforcement Violation",
+ "address" : "14995 River Road, Corona",
+ "unitnumber" :"101",
+ "APN"        : "101030001",
+ "addressnotes" : "Property owner contacted regarding violation at 14995 River Road, Corona; debris remains in front yard. Compliance deadline is next 5 days & Reinspection scheduled to confirm correction.",
+"violationtype" : "Excess outside storage",
+"description" : "Multiple violations were observed at the property located at 14995 River Road, Corona. The front yard contained scattered debris, including broken furniture, discarded household items, and overgrown vegetation obstructing the sidewalk. The backyard fence was damaged, creating a potential safety hazard for neighboring properties. The garage door was left open with visible storage of combustible materials, raising fire safety concerns. The property owner was contacted and advised of the compliance requirements. A Notice of Pendency was generated, specifying a compliance period of 15 days. Reinspection has been scheduled to confirm corrective action. Failure to comply may result in further enforcement measures, including administrative fines or hearings before the Code Enforcement Board."
+
+}

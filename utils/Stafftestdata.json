@@ -1,0 +1,18 @@
+{
+
+ "UserName" : "ce.officer@3diemail.com",
+ "PassWord"  : "Rivco@1234",
+  "servicetype" :"Code Enforcement Violation",
+ "apn"        : "101060001",
+ "addressnotes" : "Property owner contacted regarding violation at 101030001; debris remains in front yard. Compliance deadline is next 5 days & Reinspection scheduled to confirm correction.",
+"violationtype" : "Grading without Permit",
+"description" : "During inspection, multiple violations were observed at the property located at 101030001. The front yard contained scattered debris, including broken furniture, discarded household items, and overgrown vegetation obstructing the sidewalk. The backyard fence was damaged, creating a potential safety hazard for neighboring properties. The garage door was left open with visible storage of combustible materials, raising fire safety concerns. The property owner was contacted and advised of the compliance requirements. A Notice of Pendency was generated, specifying a compliance period of 15 days. Reinspection has been scheduled to confirm corrective action. Failure to comply may result in further enforcement measures, including administrative fines or hearings before the Code Enforcement Board.",
+ "Type"      : "Initial Inspection",
+  "ScheduleUser" : "Officer John (ce.officer@3diemail.com)",
+  "ScheduleComment" : "An inspection has been scheduled for [Date] at [Time] to review the property for compliance regarding [Violation Type, e.g., overgrown vegetation/junk & debris]. This inspection will determine if the outstanding violations have been corrected or if further enforcement action/fines will be initiated.",
+  "duration": "30 mins",
+  "ViolationText" : "Zoning Violation-Excessive Animals",
+  "ViolationComment"  : "The ordinance permits a maximum of [Insert Allowed Number, e.g., 3] domestic animals per household. At the time of inspection, code enforcement observed approximately [Insert Count, e.g., 8] dogs/cats on the premises, exceeding the legal threshold.",
+  "Inspectiontime"  : "10 mins",
+  "AgencyName" : "City of Riverside (311@riversideca.gov)"
+}

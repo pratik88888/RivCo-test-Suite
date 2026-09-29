@@ -1,0 +1,5 @@
+chrome-headless-shell/
+*.war
+node_modules/
+test-results/
+playwright-report/
